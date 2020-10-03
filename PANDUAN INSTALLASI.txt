@@ -1,0 +1,11 @@
+
+Requirement
+1. Web Server XAMPP
+2. Database MYSQL
+3. PHP
+
+Url form
+1. http://localhost/PhpRegistration/
+
+Config Database
+1. config.php
